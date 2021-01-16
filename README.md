@@ -3,22 +3,22 @@
 ## Conference YouTube Channels
 
 ### Language Agnostic
-- [https://www.youtube.com/c/GotoConferences](GOTO)
-- [https://www.youtube.com/user/MarakanaTechTV](QCon)
-- [https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw](Strange Loop)
-- [https://www.youtube.com/user/dotconferences](Dot Conferences)
+- [GOTO](https://www.youtube.com/c/GotoConferences)
+- [QCon](https://www.youtube.com/user/MarakanaTechTV)
+- [Strange Loop](https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw)
+- [Dot Conferences](https://www.youtube.com/user/dotconferences)
 
 ### JavaScript
-- [https://www.youtube.com/user/jsconfeu](JSConf)
+- [JSConf](https://www.youtube.com/user/jsconfeu)
 
 ### React
-- [https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw](React Rally)
-- [https://www.youtube.com/channel/UCz5vTaEhvh7dOHEyd1efcaQ](React Conf)
-- [https://www.youtube.com/c/ReactConferences](Channel dedicated to React conference videos)
+- [React Rally](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw)
+- [React Conf](https://www.youtube.com/channel/UCz5vTaEhvh7dOHEyd1efcaQ)
+- [Channel dedicated to React conference videos](https://www.youtube.com/c/ReactConferences)
 
 ### Vue
-- [https://www.youtube.com/c/VueConfToronto](VueConf Toronto)
+- [VueConf Toronto](https://www.youtube.com/c/VueConfToronto)
 
 ### Elixir
-- [https://www.youtube.com/c/ElixirConf](Elixir Conf)
+- [Elixir Conf](https://www.youtube.com/c/ElixirConf)
 
