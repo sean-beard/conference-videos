@@ -22,3 +22,5 @@
 ### Elixir
 - [Elixir Conf](https://www.youtube.com/c/ElixirConf)
 
+### Golang
+- [GopherCon](https://www.youtube.com/c/GopherAcademy)
