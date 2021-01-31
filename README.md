@@ -32,6 +32,7 @@ Table of contents:
 ### React
 - [React Rally](https://www.youtube.com/channel/UCXBhQ05nu3L1abBUGeQ0ahw)
 - [React Conf](https://www.youtube.com/channel/UCz5vTaEhvh7dOHEyd1efcaQ)
+- [ReactEurope](https://www.youtube.com/c/ReacteuropeOrgConf)
 - [Channel dedicated to React conference videos](https://www.youtube.com/c/ReactConferences)
 
 ### Vue
