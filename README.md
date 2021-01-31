@@ -10,11 +10,12 @@ Table of contents:
   - [Elixir](https://github.com/sean-beard/conference-videos#elixir)
   - [Golang](https://github.com/sean-beard/conference-videos#golang)
 - [Talks by speaker](https://github.com/sean-beard/conference-videos#talks-by-speaker)
-  - [Rich Hickey](https://github.com/sean-beard/conference-videos#rich-hickey)
-  - [Gary Bernhardt](https://github.com/sean-beard/conference-videos#gary-bernhardt)
   - [Dan Abramov](https://github.com/sean-beard/conference-videos#dan-abramov)
-  - [Rich Harris](https://github.com/sean-beard/conference-videos#rich-harris)
   - [Evan You](https://github.com/sean-beard/conference-videos#evan-you)
+  - [Gary Bernhardt](https://github.com/sean-beard/conference-videos#gary-bernhardt)
+  - [Rich Harris](https://github.com/sean-beard/conference-videos#rich-harris)
+  - [Rich Hickey](https://github.com/sean-beard/conference-videos#rich-hickey)
+
 
 ## Conference YouTube Channels
 
@@ -42,6 +43,33 @@ Table of contents:
 - [GopherCon](https://www.youtube.com/c/GopherAcademy)
 
 ## Talks by speaker
+
+### Dan Abramov
+
+* [React Today and Tomorrow and 90% Cleaner React With Hooks feat: Sophie Alpert and Ryan Florence (Oct 2018)](https://www.youtube.com/watch?v=dpw9EHDh2bM)
+* [Beyond React 16 (Mar 2018)](https://www.youtube.com/watch?v=nLF0n9SACd4)
+* [The Redux Journey (Jun 2016)](https://www.youtube.com/watch?v=uvAXVMwHJXU)
+* [Live React: Hot Reloading with Time Travel (Jul 2015)](https://www.youtube.com/watch?v=xsSnOQynTHs)
+
+### Evan You
+
+* [State of Components (Dec 2019)](https://www.youtube.com/watch?v=bOdfo5SmQc8)
+* [Design Principles of Vue 3.0 (Nov 2019)](https://www.youtube.com/watch?v=WLpLYhnGqPA)
+* [Seeking the Balance in Framework Design (Jun 2019)](https://www.youtube.com/watch?v=ANtSWq-zI0s)
+* [State of the Vuenion (Feb 2019)](https://www.youtube.com/watch?v=zB3HOejXqwk)
+* [The Progressive Framework (Sep 2016)](https://www.youtube.com/watch?v=pBBSp_iIiVM)
+
+### Gary Bernhardt
+
+* [The Birth & Death of JavaScript (Apr 2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+* [Boundaries (Nov 2012)](https://www.destroyallsoftware.com/talks/boundaries)
+
+### Rich Harris
+
+* [Futuristic Web Development (Oct 2020)](https://www.youtube.com/watch?v=qSfdtmcZ4d0)
+* [Rethinking Reactivity (Oct 2019)](https://www.youtube.com/watch?v=AdNJ3fydeao)
+* [The Return of 'Write Less, Do More' (Jul 2019)](https://www.youtube.com/watch?v=BzX4aTRPzno)
+* [Computer, build me an app (Jun 2018)](https://www.youtube.com/watch?v=qqt6YxAZoOc)
 
 ### Rich Hickey
 
@@ -90,31 +118,7 @@ Table of contents:
 * [Clojure Concurrency, version with slides (Mar 2008)](https://www.youtube.com/watch?v=nDAfZK8m5_8)
 * [Clojure Concurrency (Mar 2008)](https://youtube.com/watch?v=dGVqrGmwOAw)
 
-### Gary Bernhardt
 
-* [The Birth & Death of JavaScript (Apr 2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
-* [Boundaries (Nov 2012)](https://www.destroyallsoftware.com/talks/boundaries)
 
-### Dan Abramov
-
-* [React Today and Tomorrow and 90% Cleaner React With Hooks feat: Sophie Alpert and Ryan Florence (Oct 2018)](https://www.youtube.com/watch?v=dpw9EHDh2bM)
-* [Beyond React 16 (Mar 2018)](https://www.youtube.com/watch?v=nLF0n9SACd4)
-* [The Redux Journey (Jun 2016)](https://www.youtube.com/watch?v=uvAXVMwHJXU)
-* [Live React: Hot Reloading with Time Travel (Jul 2015)](https://www.youtube.com/watch?v=xsSnOQynTHs)
-
-### Rich Harris
-
-* [Futuristic Web Development (Oct 2020)](https://www.youtube.com/watch?v=qSfdtmcZ4d0)
-* [Rethinking Reactivity (Oct 2019)](https://www.youtube.com/watch?v=AdNJ3fydeao)
-* [The Return of 'Write Less, Do More' (Jul 2019)](https://www.youtube.com/watch?v=BzX4aTRPzno)
-* [Computer, build me an app (Jun 2018)](https://www.youtube.com/watch?v=qqt6YxAZoOc)
-
-### Evan You
-
-* [State of Components (Dec 2019)](https://www.youtube.com/watch?v=bOdfo5SmQc8)
-* [Design Principles of Vue 3.0 (Nov 2019)](https://www.youtube.com/watch?v=WLpLYhnGqPA)
-* [Seeking the Balance in Framework Design (Jun 2019)](https://www.youtube.com/watch?v=ANtSWq-zI0s)
-* [State of the Vuenion (Feb 2019)](https://www.youtube.com/watch?v=zB3HOejXqwk)
-* [The Progressive Framework (Sep 2016)](https://www.youtube.com/watch?v=pBBSp_iIiVM)
 
 
