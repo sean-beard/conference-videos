@@ -78,3 +78,19 @@
 
 * [The Birth & Death of JavaScript (Apr 2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 * [Boundaries (Nov 2012)](https://www.destroyallsoftware.com/talks/boundaries)
+
+### Dan Abramov
+
+* [React Today and Tomorrow and 90% Cleaner React With Hooks feat: Sophie Alpert and Ryan Florence (Oct 2018)](https://www.youtube.com/watch?v=dpw9EHDh2bM)
+* [Beyond React 16 (Mar 2018)](https://www.youtube.com/watch?v=nLF0n9SACd4)
+* [The Redux Journey (Jun 2016)](https://www.youtube.com/watch?v=uvAXVMwHJXU)
+* [Live React: Hot Reloading with Time Travel (Jul 2015)](https://www.youtube.com/watch?v=xsSnOQynTHs)
+
+### Rich Harris
+
+* [Futuristic Web Development (Oct 2020)](https://www.youtube.com/watch?v=qSfdtmcZ4d0)
+* [Rethinking Reactivity (Oct 2019)](https://www.youtube.com/watch?v=AdNJ3fydeao)
+* [The Return of 'Write Less, Do More' (Jul 2019)](https://www.youtube.com/watch?v=BzX4aTRPzno)
+* [Computer, build me an app (Jun 2018)](https://www.youtube.com/watch?v=qqt6YxAZoOc)
+
+
