@@ -1,5 +1,20 @@
 # Software Engineering Conference Videos
 
+Table of contents:
+- [Conference YouTube Channels](https://github.com/sean-beard/conference-videos#conference-youtube-channels)
+  - [Language Agnostic](https://github.com/sean-beard/conference-videos#language-agnostic)
+  - [JavaScript](https://github.com/sean-beard/conference-videos#javascript)
+  - [React](https://github.com/sean-beard/conference-videos#react)
+  - [Vue](https://github.com/sean-beard/conference-videos#vue)
+  - [JavaScript](https://github.com/sean-beard/conference-videos#javascript)
+  - [Elixir](https://github.com/sean-beard/conference-videos#elixir)
+  - [Golang](https://github.com/sean-beard/conference-videos#golang)
+- [Talks by speaker](https://github.com/sean-beard/conference-videos#talks-by-speaker)
+  - [Rich Hickey](https://github.com/sean-beard/conference-videos#rich-hickey)
+  - [Gary Bernhardt](https://github.com/sean-beard/conference-videos#gary-bernhardt)
+  - [Dan Abramov](https://github.com/sean-beard/conference-videos#dan-abramov)
+  - [Rich Harris](https://github.com/sean-beard/conference-videos#rich-harris)
+
 ## Conference YouTube Channels
 
 ### Language Agnostic
