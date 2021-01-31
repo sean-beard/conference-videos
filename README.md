@@ -10,6 +10,7 @@ Table of contents:
   - [Elixir](https://github.com/sean-beard/conference-videos#elixir)
   - [Golang](https://github.com/sean-beard/conference-videos#golang)
 - [Talks by speaker](https://github.com/sean-beard/conference-videos#talks-by-speaker)
+  - [Bob Martin](https://github.com/sean-beard/conference-videos#bob-martin)
   - [Dan Abramov](https://github.com/sean-beard/conference-videos#dan-abramov)
   - [Evan You](https://github.com/sean-beard/conference-videos#evan-you)
   - [Gary Bernhardt](https://github.com/sean-beard/conference-videos#gary-bernhardt)
@@ -43,6 +44,23 @@ Table of contents:
 - [GopherCon](https://www.youtube.com/c/GopherAcademy)
 
 ## Talks by speaker
+
+### Bob Martin
+
+* [The Future of Agile (Sep 2019)](https://www.youtube.com/watch?v=LmRl0D-RkPU)
+* [The Craftsman's Oath (Oct 2018)](https://www.youtube.com/watch?v=17vTLSkXTOo)
+* [The Clean Coder (Jul 2018)](https://www.youtube.com/watch?v=NeXQEJNWO5w)
+* [The Scribe's Oath (Jun 2017)](https://www.youtube.com/watch?v=Tng6Fox8EfI&vl=en)
+* [The Programmer’s Oath (Apr 2017)](https://skillsmatter.com/skillscasts/9503-the-programmers-oath-uncle-bob-martin)
+* [The Future of Programming (May 2016)](https://www.youtube.com/watch?v=ecIWPzGEbFc)
+* [Expecting Professionalism (Dec 2015)](https://www.youtube.com/watch?v=BSaAMQVq01E)
+* [SOLID Principles (May 2015)](https://www.youtube.com/watch?v=ecIWPzGEbFc)
+* [Advanced TDD: The Transformation Priority Premise (Jun 2014)](https://vimeo.com/97516288)
+* [Functional Programming: What? Why? When? (Jun 2014)](https://vimeo.com/97514630)
+* [Principles of Component Design (Jun 2013)](https://vimeo.com/68236438)
+* [Architecture - The Lost Years (Nov 2011)](https://www.youtube.com/watch?v=WpkDN78P884)
+* [Clean Code - Functions (Jun 2008)](https://vimeo.com/channels/1111213/12643301)
+
 
 ### Dan Abramov
 
