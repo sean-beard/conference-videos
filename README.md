@@ -14,6 +14,7 @@ Table of contents:
   - [Dan Abramov](https://github.com/sean-beard/conference-videos#dan-abramov)
   - [Evan You](https://github.com/sean-beard/conference-videos#evan-you)
   - [Gary Bernhardt](https://github.com/sean-beard/conference-videos#gary-bernhardt)
+  - [Martin Fowler](https://github.com/sean-beard/conference-videos#martin-fowler)
   - [Rich Harris](https://github.com/sean-beard/conference-videos#rich-harris)
   - [Rich Hickey](https://github.com/sean-beard/conference-videos#rich-hickey)
 
@@ -82,6 +83,16 @@ Table of contents:
 
 * [The Birth & Death of JavaScript (Apr 2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 * [Boundaries (Nov 2012)](https://www.destroyallsoftware.com/talks/boundaries)
+
+### Martin Fowler
+
+* [Cultivating Architecture feat: Birgitta Böckeler (May 2019)](https://www.youtube.com/watch?v=MZnrxjw602E)
+* [Software Design in the 21st Century (Feb 2019)](https://www.youtube.com/watch?v=6wDoopbtEqk)
+* [What Does Tech Excellence Look Like (Oct 2016)](https://www.youtube.com/watch?v=Avs70dZ3Vlk)
+* [Microservices (Nov 2014)](https://www.youtube.com/watch?v=wgdBVIX9ifA)
+* [Agile Essence and Fluency (Apr 2014)](https://www.youtube.com/watch?v=URlnxbaHhTs)
+* [Not Just Code Monkeys (Feb 2014)](https://www.youtube.com/watch?v=Z8aECe4lp44)
+* [Introduction to NoSQL (Sep 2012)](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 
 ### Rich Harris
 
