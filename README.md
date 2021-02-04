@@ -55,7 +55,7 @@ Table of contents:
 * [The Programmer’s Oath (Apr 2017)](https://skillsmatter.com/skillscasts/9503-the-programmers-oath-uncle-bob-martin)
 * [The Future of Programming (May 2016)](https://www.youtube.com/watch?v=ecIWPzGEbFc)
 * [Expecting Professionalism (Dec 2015)](https://www.youtube.com/watch?v=BSaAMQVq01E)
-* [SOLID Principles (May 2015)](https://www.youtube.com/watch?v=ecIWPzGEbFc)
+* [SOLID Principles (May 2015)](https://www.youtube.com/watch?v=TMuno5RZNeE)
 * [Advanced TDD: The Transformation Priority Premise (Jun 2014)](https://vimeo.com/97516288)
 * [Functional Programming: What? Why? When? (Jun 2014)](https://vimeo.com/97514630)
 * [Principles of Component Design (Jun 2013)](https://vimeo.com/68236438)
