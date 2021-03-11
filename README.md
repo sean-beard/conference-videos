@@ -14,6 +14,7 @@ Table of contents:
   - [Dan Abramov](https://github.com/sean-beard/conference-videos#dan-abramov)
   - [Evan You](https://github.com/sean-beard/conference-videos#evan-you)
   - [Gary Bernhardt](https://github.com/sean-beard/conference-videos#gary-bernhardt)
+  - [Kent C. Dodds](https://github.com/sean-beard/conference-videos#kent-c-dodds)
   - [Martin Fowler](https://github.com/sean-beard/conference-videos#martin-fowler)
   - [Rich Harris](https://github.com/sean-beard/conference-videos#rich-harris)
   - [Rich Hickey](https://github.com/sean-beard/conference-videos#rich-hickey)
@@ -83,6 +84,37 @@ Table of contents:
 
 * [The Birth & Death of JavaScript (Apr 2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 * [Boundaries (Nov 2012)](https://www.destroyallsoftware.com/talks/boundaries)
+
+
+### Kent C Dodds
+
+* [Managing State Management (Dec 2020)](https://youtu.be/pkNzU-5oDiA?t=3890&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+* [Consume ➡️ Build ➡️ Teach (Oct 2020)](https://www.youtube.com/watch?v=yUcd_gXByoQ&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+* [AHA Programming (Apr 2020)](https://www.youtube.com/watch?v=wuVy7rwkCfc&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+* [Simply React (Apr 2020)](https://www.youtube.com/watch?v=5io81WLgXtg&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+* [Why React Hooks (Oct 2019)](https://www.recallact.com/presentation/why-react-hooks)
+* [Managing an Open Source Project (Oct 2019)](https://www.youtube.com/watch?v=zCJyiBu12Jw&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+* [Building the Open Source Community We Want (Oct 2019)](https://www.youtube.com/watch?v=OGeoH-sqePE&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+* [React Hook Pitfalls (Aug 2019)](https://www.youtube.com/watch?v=VIRcX2X7EUk&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+* [Testing Implementation Details (Mar 2019)](https://youtu.be/-FxVK5mOewQ?list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+* [Requisite React (Apr 2019)](https://youtu.be/tO8qHlr6Wqg?list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+* [Contributing to Open Source on GitHub for beginners (Dec 2018)](https://youtu.be/k6KcaMffxac?list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjsh)
+* [A Render Prop by Any Other Name (Oct 2018)](https://www.youtube.com/watch?v=pjDOJdMM2eg)
+* [React... Suspense... (Sep 2018)](https://youtu.be/7LmrS2sdMlo?list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+* [How open source has made me and the stuff I make better (Apr 2018)](https://www.youtube.com/watch?v=6mtPPkKchcQ&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+* [Write tests. Not too many. Mostly integration (Feb 2018)](https://youtu.be/Fha2bVoC8SE?list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+* [All about macros with babel-plugin-macros (Jan 2018)](https://youtu.be/nlAHtAQlFGk?t=2s&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf&index=1)
+* [Writing custom Babel and ESLint plugins with ASTs (Oct 2017)](https://www.youtube.com/watch?v=VicU_XwriWw&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+* [Maintainable CSS in React (Jul 2017)](https://youtu.be/3-4KsXPO2Q4?list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+* [Faster JavaScript (Mar 2017)](https://youtu.be/enlfQRUXb-s?list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+* [More than you want to know about ES6 Modules (Sep 2016)](https://youtu.be/V0YQ0rnh-Hg)
+* [The First Pull Request (Mar 2016)](https://youtu.be/HjgZQeMrw6c)
+* [What we can learn about testing from the wheel (Mar 2016)](https://youtu.be/Da9wfQ0frGA?list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+* [JSON powered Forms (Aug 2015)](https://youtu.be/jUX2zcSwbRE)
+* [ES6, Webpack, Karma, and Code Coverage (Jun 2015)](https://youtu.be/P-1ZZkpEmQA)
+* [ES6 (Apr 2015)](https://youtu.be/_Pn32tTtbuQ)
+* [JWT: Not Your Grandma's Cookies (Jun 2014)](https://www.youtube.com/watch?v=vIGZxeQUUFU)
+
 
 ### Martin Fowler
 
