@@ -96,7 +96,7 @@ Table of contents:
 * [Managing an Open Source Project (Oct 2019)](https://www.youtube.com/watch?v=zCJyiBu12Jw&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
 * [Building the Open Source Community We Want (Oct 2019)](https://www.youtube.com/watch?v=OGeoH-sqePE&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
 * [React Hook Pitfalls (Aug 2019)](https://www.youtube.com/watch?v=VIRcX2X7EUk&list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
-* [Testing Implementation Details (Mar 2019)](https://youtu.be/-FxVK5mOewQ?list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
+* [Testing Implementation Details (May 2019)](https://youtu.be/-FxVK5mOewQ?list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
 * [Requisite React (Apr 2019)](https://youtu.be/tO8qHlr6Wqg?list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjshf)
 * [Contributing to Open Source on GitHub for beginners (Dec 2018)](https://youtu.be/k6KcaMffxac?list=PLV5CVI1eNcJgNqzNwcs4UKrlJdhfDjsh)
 * [A Render Prop by Any Other Name (Oct 2018)](https://www.youtube.com/watch?v=pjDOJdMM2eg)
