@@ -16,6 +16,7 @@ Table of contents:
   - [Gary Bernhardt](https://github.com/sean-beard/conference-videos#gary-bernhardt)
   - [Kent C. Dodds](https://github.com/sean-beard/conference-videos#kent-c-dodds)
   - [Martin Fowler](https://github.com/sean-beard/conference-videos#martin-fowler)
+  - [Mary Poppendieck](https://github.com/sean-beard/conference-videos#mary-poppendieck)
   - [Rich Harris](https://github.com/sean-beard/conference-videos#rich-harris)
   - [Rich Hickey](https://github.com/sean-beard/conference-videos#rich-hickey)
 
@@ -125,6 +126,14 @@ Table of contents:
 * [Agile Essence and Fluency (Apr 2014)](https://www.youtube.com/watch?v=URlnxbaHhTs)
 * [Not Just Code Monkeys (Feb 2014)](https://www.youtube.com/watch?v=Z8aECe4lp44)
 * [Introduction to NoSQL (Sep 2012)](https://www.youtube.com/watch?v=qI_g07C_Q5I)
+
+### Mary Poppendieck
+
+* [Software Engineering – Then, Now, and Next (May 2022)](https://www.youtube.com/watch?v=w1uzR0Lg7Q8)
+* [It Is Not About Software Anymore (Oct 2020)](https://www.youtube.com/watch?v=X8iIRG9LA54)
+* [Six Decades of Software Engineering (Jul 2020)](https://www.youtube.com/watch?v=PzI07SBqaPA)
+* [The Future of Software Engineering (Nov 2016)](https://www.youtube.com/watch?v=6K4ljFZWgW8)
+* [The Lean Mindset (Feb 2015)](https://www.youtube.com/watch?v=TwasxNk1824)
 
 ### Rich Harris
 
