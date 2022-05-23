@@ -14,6 +14,7 @@ Table of contents:
   - [Dan Abramov](https://github.com/sean-beard/conference-videos#dan-abramov)
   - [Evan You](https://github.com/sean-beard/conference-videos#evan-you)
   - [Gary Bernhardt](https://github.com/sean-beard/conference-videos#gary-bernhardt)
+  - [Hannah Fry](https://github.com/sean-beard/conference-videos#hannah-fry)
   - [Kent C. Dodds](https://github.com/sean-beard/conference-videos#kent-c-dodds)
   - [Martin Fowler](https://github.com/sean-beard/conference-videos#martin-fowler)
   - [Mary Poppendieck](https://github.com/sean-beard/conference-videos#mary-poppendieck)
@@ -86,6 +87,9 @@ Table of contents:
 * [The Birth & Death of JavaScript (Apr 2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 * [Boundaries (Nov 2012)](https://www.destroyallsoftware.com/talks/boundaries)
 
+### Hannah Fry
+
+* [Should Computers Run the World? (Apr 2019)](https://www.youtube.com/watch?v=Rzhpf1Ai7Z4)
 
 ### Kent C Dodds
 
