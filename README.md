@@ -128,6 +128,8 @@ Table of contents:
 
 ### Rich Harris
 
+* [Frameworks, the web, and the edge (Apr 2023)](https://www.youtube.com/watch?v=uXCipjbcQfM)
+* [Have Single-Page Apps Ruined the Web? (Oct 2021)](https://www.youtube.com/watch?v=860d8usGC0o)
 * [Futuristic Web Development (Oct 2020)](https://www.youtube.com/watch?v=qSfdtmcZ4d0)
 * [Rethinking Reactivity (Oct 2019)](https://www.youtube.com/watch?v=AdNJ3fydeao)
 * [The Return of 'Write Less, Do More' (Jul 2019)](https://www.youtube.com/watch?v=BzX4aTRPzno)
